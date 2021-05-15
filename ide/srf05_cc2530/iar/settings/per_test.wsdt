@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>per_test/srf05_cc2530</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>345</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>71</ScreenPosX><ScreenPosY>126</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build>
+      <TerminalIO/>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Find-in-Files</Factory></Window></Windows></PreferedWindows><ColumnWidth0>24</ColumnWidth0><ColumnWidth1>1217</ColumnWidth1></Debug-Log><Find-in-Files><ColumnWidth0>495</ColumnWidth0><ColumnWidth1>70</ColumnWidth1><ColumnWidth2>849</ColumnWidth2><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows></Find-in-Files></Static>
+    <Windows>
+      
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-23610-22371</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>per_test</ExpandedNode><ExpandedNode>per_test/Output</ExpandedNode><ExpandedNode>per_test/application</ExpandedNode><ExpandedNode>per_test/basic rf</ExpandedNode><ExpandedNode>per_test/hal</ExpandedNode><ExpandedNode>per_test/hal/rf</ExpandedNode><ExpandedNode>per_test/hal/rf/cc2530</ExpandedNode><ExpandedNode>per_test/utilities</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-24331-13741</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-9171-14025</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\per_test\per_test.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>1954</SelStart><SelEnd>1957</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_board.c</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>1461</SelStart><SelEnd>1461</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_led.c</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>1873</SelStart><SelEnd>1886</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\apps\per_test\per_test.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>1171</SelStart><SelEnd>1171</SelEnd></Tab><ActiveTab>3</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\radios\cc2530\hal_rf.c</Filename><XPos>0</XPos><YPos>88</YPos><SelStart>7665</SelStart><SelEnd>7665</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\interface\hal_rf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\source\Components\targets\srf05_soc\hal_board.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>1776</SelStart><SelEnd>1799</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-04c31d38><key>iaridepm.enu1</key></Toolbar-04c31d38></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>950</Bottom><Right>419</Right><x>-2</x><y>-2</y><xscreen>29019</xscreen><yscreen>6338</yscreen><sizeHorzCX>11335547</sizeHorzCX><sizeHorzCY>4670597</sizeHorzCY><sizeVertCX>164453</sizeVertCX><sizeVertCY>701548</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>362</Bottom><Right>2562</Right><x>-2</x><y>-2</y><xscreen>2564</xscreen><yscreen>364</yscreen><sizeHorzCX>1001562</sizeHorzCX><sizeHorzCY>268239</sizeHorzCY><sizeVertCX>314453</sizeVertCX><sizeVertCY>519528</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
